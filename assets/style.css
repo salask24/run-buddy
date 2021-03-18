@@ -100,3 +100,10 @@ section {
   padding: 60px;
   background-image: url("../assets/images/hero-bg.jpeg");
 }
+
+/* Hero Style Start */
+.hero {
+  background-image: url("../images/hero-bg.jpg");
+  height: 600px;
+}
+/* Hero Style End */
